@@ -1,2 +1,2 @@
-SELECT SUM(revenue) AS total_revenue
+SELECT COUNT(revenue) AS revenue_count
 FROM sales;
