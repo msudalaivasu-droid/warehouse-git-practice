@@ -1,2 +1,2 @@
-SELECT SUM(revenue) AS total_revenue
+SELECT AVG(revenue) AS average_revenue
 FROM sales;
